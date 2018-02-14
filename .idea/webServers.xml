@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1e9d3f7f-9006-4a1b-8213-b338398fd673" name="regAjax" url="http://savchuk/regAjax/">
+        <fileTransfer port="0" mountedRoot="D:\OpenServer\domains\savchuk\regAjax" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

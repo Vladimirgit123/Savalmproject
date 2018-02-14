@@ -1,0 +1,7 @@
+$git init-инициализирует репозиторий
+
+$git config --global user.name "Vladimir"-установка имени
+
+$git config --global user.email"email@"-установка мыла
+
+$git config --list-вывод настроек конфигурации

@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+.input1{
+    border:2px solid red;
+}
+.input2{
+    border: 2px solid green;
+}
+.splogr{
+    color: red;
+    font-size:16px;
+
+}
+.splogg{
+    color: green;
+    font-size: 16px;
+}
+.spemailr{
+    color: red;
+    font-size: 16px;
+}
+.spemailg{
+    color: green;
+    font-size: 16px;
+}
