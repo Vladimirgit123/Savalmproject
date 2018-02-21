@@ -7,5 +7,5 @@ $query="insert into user (name,login,pass,email,phone) VALUES ('".$_POST['name']
 echo ($query);
 $rezultbd=mysqli_query($dbc,$query) or die("error zapros");
 }else{
-    echo("error 404");
+    echo("error 405");
     };
